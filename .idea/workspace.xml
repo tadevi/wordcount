@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f75ef8-a9bf-45ac-9318-82070ea70393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/counter/ProducerConsumerWordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/counter/SingleThreadWordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/counter/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/log/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/model/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/parser/PageXmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tadevi/wordcount/util/WordCountUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3f75ef8-a9bf-45ac-9318-82070ea70393" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
